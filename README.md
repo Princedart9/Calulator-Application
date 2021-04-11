@@ -1,4 +1,4 @@
 # Calulator-tut
 Simple Project for fun 
 <br>
-Text pad and coloring feature 
+Only simple feature are working
