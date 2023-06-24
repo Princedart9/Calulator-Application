@@ -1,4 +1,2 @@
-# Calulator-tut
-Simple Project for fun 
-<br>
-Only simple feature are working
+# Calulator App
+- This is simple Calculator Application!!
